@@ -1,0 +1,65 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Mr Ayoola Gbenga\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add hardhat-gas-reporter
+
+PATH: 
+  C:\Users\Mr Ayoola Gbenga\Anaconda3\condabin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\nodejs\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Git\cmd;C:\Program Files (x86)\IBM\SPSS\Statistics\23\JRE\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Mr Ayoola Gbenga\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Mr Ayoola Gbenga\AppData\Local\Programs\Python\Python37-32\;C:\Users\Mr Ayoola Gbenga\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Mr Ayoola Gbenga\Anaconda3;C:\Users\Mr Ayoola Gbenga\Anaconda3\Scripts\;C:\Users\Mr Ayoola Gbenga\AppData\Local\Microsoft\WindowsApps;C:\Users\Mr Ayoola Gbenga\AppData\Roaming\npm;
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.17.5
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26)
+
+npm manifest: 
+  {
+    "name": "hardhat-project",
+    "devDependencies": {
+      "@nomiclabs/hardhat-ethers": "^2.0.2",
+      "@nomiclabs/hardhat-etherscan": "^2.1.6",
+      "@nomiclabs/hardhat-waffle": "^2.0.1",
+      "@typechain/ethers-v5": "^7.1.2",
+      "@typechain/hardhat": "^2.3.0",
+      "@types/chai": "^4.2.22",
+      "@types/mocha": "^9.0.0",
+      "@types/node": "^16.10.3",
+      "@typescript-eslint/eslint-plugin": "^4.33.0",
+      "@typescript-eslint/parser": "^4.33.0",
+      "chai": "^4.3.4",
+      "dotenv": "^10.0.0",
+      "eslint": "^7.32.0",
+      "eslint-config-prettier": "^8.3.0",
+      "eslint-config-standard": "^16.0.3",
+      "eslint-plugin-import": "^2.24.2",
+      "eslint-plugin-node": "^11.1.0",
+      "eslint-plugin-prettier": "^3.4.1",
+      "eslint-plugin-promise": "^5.1.0",
+      "ethereum-waffle": "^3.4.0",
+      "ethers": "^5.4.7",
+      "hardhat": "^2.6.5",
+      "hardhat-gas-reporter": "^1.0.4",
+      "prettier": "^2.4.1",
+      "prettier-plugin-solidity": "^1.0.0-beta.13",
+      "solhint": "^3.3.6",
+      "solidity-coverage": "^0.7.17",
+      "ts-node": "^10.2.1",
+      "typechain": "^5.1.2",
+      "typescript": "^4.4.3"
+    },
+    "license": "MIT",
+    "dependencies": { 
+      "@openzeppelin/contracts": "4.3.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

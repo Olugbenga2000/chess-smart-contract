@@ -1,0 +1,23 @@
+Please finish the chess smart contract chess-quiz (https://github.com/pokket-finance-hiring/solidity-question.git , for more details, please read README.md inside the project).  And send the answer in email. 
+
+Please name a few ERC standards and how they are used. 
+
+ERC-20
+ erc20 is a standard used to represent fungible token. A fungible asset is one that can be exchanged for any other one.
+erc 721
+erc 721 is used to represent non-fungible token. A non fungible asset is a unique asset and cannot be exchanged for another one e.g a piece of art. 
+each tokens are uniquely represented by using a unique Id in an erc721 smart contract. The ERC-721 implements the following funtions
+  
+
+
+Please introduce how you learn coding in smart contract and blockchain related technologies, take, which web site, which books or articles for starting up. 
+
+Please raise your opinion upon the pros and cons of the ETH2.0 coming soon in a few words comparing with current ETH.  
+
+What features do you think are missing or can be improved in solidity? 
+
+What factors need to be taken into consideration to save gas when composing a smart contract? 
+
+When do you use payable functions, and why you think they are needed? 
+
+Please imagine an ERC standard you want to propose that might be useful. 
